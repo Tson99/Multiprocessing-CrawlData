@@ -1,5 +1,5 @@
-# Crawl data trên web sử dụng multi processing trong python
-## `Install`
+## Crawl data Web sử dụng multiprocessing trong python
+### `Install`
 ```
     pip install -r requirements.txt
 ```
