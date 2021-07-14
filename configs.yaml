@@ -1,0 +1,5 @@
+process: 5
+urls:
+  - 'http://facebook.com'
+  - 'http://instagram.com'
+  - 'http://youtube.com'
